@@ -1,0 +1,51 @@
+[{
+	"_id": "Medicine Portal",
+	"classify": "Medicine Portal",
+	"icon": "XXX",
+	"sites": [{
+		"name": "Medicine Portal",
+		"href": "https://www.XXX",
+		"desc": "Connecting You to Official Medicine Websites",
+		"logo": "XXX"
+	}, {
+		"name": "Medicine Portal",
+		"href": "http://www.XXX",
+		"desc": "Medicine Portal",
+		"logo": "XXX"
+	},]
+{
+		"name": "OneDrive",
+		"href": "http://onedrive.com/",
+		"desc": "微软云存储，支持在线Offiec编辑",
+		"logo": "static/icons/onedrive.live.com.ico"
+	}, {
+		"name": "DropBox",
+		"href": "https://www.dropbox.com/",
+		"desc": "全球最优秀的在线云存储",
+		"logo": "static/icons/dropbox.com.png"
+	}, {
+		"name": "GoogleDrive",
+		"href": "https://www.google.com/intl/zh-CN/drive/",
+		"desc": "Google在线云存储服务",
+		"logo": "static/icons/drive.google.com.png"
+	}, {
+		"name": "iCloud",
+		"href": "https://www.icloud.com/",
+		"desc": "苹果在线存储和云服务",
+		"logo": "static/icons/icloud.com.png"
+	}, {
+		"name": "Firefox Send",
+		"href": "https://send.firefox.com/",
+		"desc": "火狐提供的快传网盘",
+		"logo": "static/icons/firefox.com.svg"
+	}]
+{ 
+	"_id": "daohang",
+	"classify": "分类导航",
+	"icon": "ti-bookmark-alt",
+	"sites": [{
+		"name": "医学导航",
+		"href": "http://meddir.cn/",
+		"desc": "医学类网站导航",
+		"logo": "no-logo"
+	}
